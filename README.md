@@ -15,8 +15,8 @@ I did not use a programming language in this software but instead I used modules
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](https://www.youtube.com/watch?v=n3OuggSm_rM&t=2s&ab_channel=ALLTHEWORKS)
-* [Web Site Name](https://docs.blender.org/manual/en/latest/editors/3dview/navigate/navigation.html)
+* [Youtube](https://www.youtube.com/watch?v=n3OuggSm_rM&t=2s&ab_channel=ALLTHEWORKS)
+* [Blender](https://docs.blender.org/manual/en/latest/editors/3dview/navigate/navigation.html)
 
 # Future Work
 
